@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Manrope", sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    font-family: "Manrope", sans-serif;
+    width: 90vw;
+    height: auto;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align: center;
+}
+
+article {
+    font-family: "Manrope", sans-serif;
+    height: auto;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    margin: 10px auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.texto {
+    color: white;
+    text-indent: 20px;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+}
+
+#sobre {
+    font-family: "Manrope", sans-serif;
+    width: 90vw;
+    height: auto;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+    margin: 10px auto;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.cont {
+    display: flex;
+    gap: 10px;
+}
+
+#foto {
+    width: 150px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10%;
+
+
+}
+
+.info {
+    font-family: "Manrope", sans-serif;
+    color: rgb(173, 236, 255);
+}
+
+#img {
+    width: 100px;
+}
+
+#img1 {
+    width: 200px;
+    background-color: white;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 50%;
+}
